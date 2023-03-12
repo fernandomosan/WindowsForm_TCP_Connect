@@ -1,0 +1,13 @@
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.csproj.AssemblyReference.cache
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.csproj.SuggestedBindingRedirects.cache
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.client.resources
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.Properties.Resources.resources
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.csproj.GenerateResource.cache
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.csproj.CoreCompileInputs.cache
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\bin\Debug\TCP_IP_Connction.exe.config
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\bin\Debug\TCP_IP_Connction.exe
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\bin\Debug\TCP_IP_Connction.pdb
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\bin\Debug\SimpleTCP.dll
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.csproj.CopyComplete
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.exe
+F:\Estudos\BACKEND\C#-ASPNET\WindowsForm\TCP_IP_Connction\obj\Debug\TCP_IP_Connction.pdb
